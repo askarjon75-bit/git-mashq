@@ -1,1 +1,1 @@
-prin("salom")
+print("salom")
